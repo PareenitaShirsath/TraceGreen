@@ -120,8 +120,7 @@ npm run dev
 
 ## 🤝 Contributors
 
-👨‍💻 *[Contributor 1's Name]* - [GitHub](https://github.com/USERNAME)  
-👨‍💻 *[Contributor 2's Name]* - [GitHub](https://github.com/USERNAME)  
+👨‍💻 *[PAREENITA SHIRSATH]* - [GitHub](https://github.com/PareenitaShirsath)  
 
 🚀 **Want to contribute?** Feel free to **open an issue** or submit a **pull request**! 🙌
 
