@@ -120,7 +120,7 @@ npm run dev
 
 ## 🤝 Contributors
 
-👨‍💻 *[PAREENITA SHIRSATH]* - [GitHub](https://github.com/PareenitaShirsath)  
+👨‍💻 *PAREENITA SHIRSATH* - [GitHub](https://github.com/PareenitaShirsath)  
 
 🚀 **Want to contribute?** Feel free to **open an issue** or submit a **pull request**! 🙌
 
