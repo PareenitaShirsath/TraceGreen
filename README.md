@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/04bfaa13-ecee-4e9b-9574-6bfd2589f731/deploy-status)](https://app.netlify.com/sites/tracegreen/deploys)
 
-🔗 **Live Demo:-** [TraceGreen](https://github.com/PareenitaShirsath/TraceGreen)  
+🔗 **Live Demo:-** [TraceGreen](https://tracegreen.netlify.app/)  
 🔗 **GitHub Repository:-** [TraceGreen](https://github.com/PareenitaShirsath/TraceGreen)
 
 ---
