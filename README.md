@@ -2,16 +2,16 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://footprintiq.netlify.app/)
 
-🔗 **Live Demo:** [FootprintIQ](https://footprintiq.netlify.app/)  
-🔗 **GitHub Repository:** [CFootprintIQ](https://github.com/Yash22222/CFootprintIQ)
+🔗 **Live Demo:** [TraceGreen](https://footprintiq.netlify.app/)  
+🔗 **GitHub Repository:** [TraceGreen](https://github.com/PareenitaShirsath/TraceGreen)
 
 ---
 
 ## 📌 About the Project
 
-**CFootprintIQ** is an interactive web application designed to help users calculate their **carbon footprint** based on their daily activities. The project aims to **promote sustainability awareness** by providing insights into how everyday actions contribute to environmental impact.  
+**TraceGreen** is an interactive web application designed to help users calculate their **carbon footprint** based on their daily activities. The project aims to **promote sustainability awareness** by providing insights into how everyday actions contribute to environmental impact.  
 
-Users receive **personalized suggestions** to reduce their carbon footprint and adopt **eco-friendly lifestyle choices**. 🌱  
+Users receive **personalized suggestions** to reduce their carbon footprint and adopt **eco friendly lifestyle choices**. 🌱  
 
 ---
 
@@ -40,7 +40,7 @@ Users receive **personalized suggestions** to reduce their carbon footprint and 
 ## 📂 Project Structure
 
 ```
-CFootprintIQ/
+TraceGreen/
 │── src/
 │   ├── components/
 │   │   ├── CarbonCalculator.tsx   # Main calculator logic  
@@ -60,10 +60,10 @@ CFootprintIQ/
 
 ## 📌 Real-World Use Cases
 
-💡 **For Individuals**: Track personal carbon emissions and adopt eco-friendly habits.  
-🏢 **For Companies**: Raise employee awareness and create sustainability reports.  
-🎓 **For Students**: Learn about environmental impact through interactive tools.  
-🌍 **For Environmentalists**: Advocate for sustainable living based on data insights.  
+💡 **For Individuals**:- Track personal carbon emissions and adopt eco-friendly habits.  
+🏢 **For Companies**:- Raise employee awareness and create sustainability reports.  
+🎓 **For Students**:- Learn about environmental impact through interactive tools.  
+🌍 **For Environmentalists**:- Advocate for sustainable living based on data insights.  
 
 ---
 
@@ -71,8 +71,8 @@ CFootprintIQ/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Yash22222/CFootprintIQ.git
-cd CFootprintIQ
+git clone https://github.com/PareenitaShirsath/TraceGreen.git
+cd TraceGreen
 ```
 
 ### 2️⃣ Install Dependencies
@@ -91,21 +91,21 @@ npm run dev
 
 ## 📊 Data Sources & Calculation Methodology
 
-- **Emission Factors:** The calculations are based on standard CO₂ emission factors from **environmental agencies**.  
-- **User Inputs:** Users provide details about their **transportation, energy usage, and lifestyle choices**.  
-- **Calculation Model:**  
-  - 🚗 **Transportation**: Fuel-based & electric vehicle CO₂ emissions.  
-  - 🏠 **Energy Usage**: Household electricity and gas consumption.  
-  - 🍽️ **Lifestyle**: Food consumption, waste generation, etc.  
-  - 📊 **Results**: Displayed using **charts** and **visual indicators** to understand impact.  
+- **Emission Factors:-** The calculations are based on standard CO₂ emission factors from **environmental agencies**.  
+- **User Inputs:-** Users provide details about their **transportation, energy usage, and lifestyle choices**.  
+- **Calculation Model:-**  
+  - 🚗 **Transportation**:- Fuel-based & electric vehicle CO₂ emissions.  
+  - 🏠 **Energy Usage**:- Household electricity and gas consumption.  
+  - 🍽️ **Lifestyle**:- Food consumption, waste generation, etc.  
+  - 📊 **Results**:- Displayed using **charts** and **visual indicators** to understand impact.  
 
 ---
 
 ## 🎨 UI/UX Design Approach
 
-- **Minimalist & Intuitive Design:** Ensures ease of use for all users.  
-- **Dynamic Chart Visualizations:** Helps users grasp their footprint impact clearly.  
-- **Dark & Light Mode Support:** Enhances accessibility.  
+- **Minimalist & Intuitive Design:-** Ensures ease of use for all users.  
+- **Dynamic Chart Visualizations:-** Helps users grasp their footprint impact clearly.  
+- **Dark & Light Mode Support:-** Enhances accessibility.  
 
 ---
 
