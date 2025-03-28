@@ -1,9 +1,9 @@
-# 🌿 CFootprintIQ - Carbon Footprint Calculator
+# 🌿 TraceGreen - Carbon Footprint Calculator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://footprintiq.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04bfaa13-ecee-4e9b-9574-6bfd2589f731/deploy-status)](https://app.netlify.com/sites/tracegreen/deploys)
 
-🔗 **Live Demo:** [TraceGreen](https://footprintiq.netlify.app/)  
-🔗 **GitHub Repository:** [TraceGreen](https://github.com/PareenitaShirsath/TraceGreen)
+🔗 **Live Demo:-** [TraceGreen](https://github.com/PareenitaShirsath/TraceGreen)  
+🔗 **GitHub Repository:-** [TraceGreen](https://github.com/PareenitaShirsath/TraceGreen)
 
 ---
 
