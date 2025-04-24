@@ -68,7 +68,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Leaf className="h-8 w-8 text-green-500" />
-              <h1 className="text-2xl font-bold text-gray-800">Carbon Footprint Calculator</h1>
+              <h1 className="text-2xl font-bold text-gray-800">TraceGreen</h1>
             </div>
           </div>
         </div>
