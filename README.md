@@ -1,4 +1,4 @@
-# 🌿 TraceGreen - Carbon Footprint Calculator
+# 🌿 TraceGreen - Carbon Footprint Calculator 🌿
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/04bfaa13-ecee-4e9b-9574-6bfd2589f731/deploy-status)](https://app.netlify.com/sites/tracegreen/deploys)
 
